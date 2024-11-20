@@ -1,0 +1,12 @@
+names:
+  0: Normal    # Class 0 represents the "Normal" Paper Clips 
+  1: Defected  # Class 1 represents the "Defected" Paper Clips
+
+# Number of classes (in this case, 2: Normal and Defected)
+nc: 2
+
+# Path to the training dataset
+train: C:/path/to/your/train/data
+
+# Path to the validation dataset
+val: C:/path/to/your/val/data

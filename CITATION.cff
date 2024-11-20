@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If this project was helpful, please cite it as below."
+title: "DL-PaperClipInspection"
+authors:
+  - family-names: "Dalageorgos"
+    given-names: "Konstantinos"
+version: "1.0.0" 
+date-released: "2024-11-18"
+repository-code: "https://github.com/Dalageo/DL-PaperClipInspection"
+license: "GNU Affero General Public License v3.0"
