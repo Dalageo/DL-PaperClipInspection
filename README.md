@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/03bac365-e1fe-421f-86de-3855b2d03bbc" width="650" />
 </div>
@@ -13,9 +11,9 @@
   <img src="https://img.shields.io/badge/CUDA-12.4-brightgreen.svg" alt="CUDA 12.4"></a>
 <a href="https://developer.nvidia.com/cudnn" target="_blank">
   <img src="https://img.shields.io/badge/cuDNN-9.1.0-brightgreen.svg" alt="cuDNN 9.1.0"></a>
-  <a href="https://github.com/Dalageo/DL-PaperClipInspection/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/Dalageo/PaperClipInspection/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-800080" alt="License: AGPLv3"></a>
-  <img src="https://img.shields.io/github/stars/Dalageo/DL-PaperClipInspection?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/Dalageo/PaperClipInspection?style=social" alt="GitHub stars">
 </div>
 
 # Analyzing Paper Clips Using Deep Learning and Computer Vision Techniques
@@ -69,11 +67,11 @@ In addition to the training and validation sets, a 23-second test video (approxi
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Dalageo/DL-PaperClipInspection.git
+   git clone https://github.com/Dalageo/PaperClipInspection.git
 
 2. **Navigate to the cloned directory**:
    ```sh
-   cd DL-PaperClipInspection
+   cd PaperClipInspection
   
 3. **Open the `Analyzing Paper Clips Using Deep Learning and Computer Vision Techniques.ipynb` using your preferred Jupyter-compatible environment (e.g., [Jupyter Notebook](https://jupyter.org/), [VS Code](https://code.visualstudio.com/), or [PyCharm](https://www.jetbrains.com/pycharm/))**
    
