@@ -79,7 +79,7 @@ In addition to the training and validation sets, a 23-second test video (approxi
    
 5. **Run the cells sequentially to reproduce the results in real-time.**
 
-*You can run this project in real-time using your own camera **only if you have the exact same types and sizes of paper clips used in this project**. If you don’t have these specific paper clips, you can test the model using the provided .mp4 video in the `test` folder. Alternatively, you can collect a new dataset, retrain the model, and modify the code to work with your own paper clip types. To run YOLOv11 on the GPU, you will need to activate GPU support based on your operating system and install the required dependencies. You can follow this [guide](https://pytorch.org/get-started/locally/) provided by [PyTorch](https://pytorch.org/) for detailed instructions.*
+*You can reproduce the results of this project in real-time using your own camera **only if you have the exact same types and sizes of paper clips used in this project**. If you don’t have these specific paper clips, you can test the model using the provided .mp4 video in the `test` folder. Alternatively, you can collect a new dataset, retrain the model, and modify the code accordingly. To run YOLOv11 on the GPU, you will need to activate GPU support based on your operating system and install the required dependencies. You can follow this [guide](https://pytorch.org/get-started/locally/) provided by [PyTorch](https://pytorch.org/) for detailed instructions.*
 
 ## Acknowledgments
 
