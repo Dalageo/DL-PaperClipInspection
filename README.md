@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.python.org/downloads/release/python-3920/" target="_blank">
+  <a href="https://www.python.org/downloads/release/python-3127/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3.12.7-blue.svg" alt="Python 3.9.20"></a>
   <a href="https://pytorch.org/get-started/locally/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-2.5.1-orange.svg" alt="PyTorch 2.5.1"></a>
