@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://www.python.org/downloads/release/python-3127/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3.12.7-blue.svg" alt="Python 3.9.20"></a>
+  <img src="https://img.shields.io/badge/Python-3.12.7-blue.svg" alt="Python 3.12.7"></a>
   <a href="https://pytorch.org/get-started/locally/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-2.5.1-orange.svg" alt="PyTorch 2.5.1"></a>
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank">
+  <a href="https://developer.nvidia.com/cuda-12-4-0-download-archive" target="_blank">
   <img src="https://img.shields.io/badge/CUDA-12.4-brightgreen.svg" alt="CUDA 12.4"></a>
 <a href="https://developer.nvidia.com/cudnn" target="_blank">
   <img src="https://img.shields.io/badge/cuDNN-9.1.0-brightgreen.svg" alt="cuDNN 9.1.0"></a>
