@@ -86,6 +86,7 @@ In addition to the training and validation sets, a 23-second test video (approxi
 Special thanks to [Ultralytics](https://github.com/ultralytics/ultralytics) for providing the pretrained YOLOv11 model for educational purposes, as well as to the [CVAT](https://github.com/cvat-ai/cvat) community for their user-friendly and free annotation software. Both were essential to the development of this project.
 
 <div align="center">
+  <br>
   <a href="https://www.ultralytics.com/">
     <img src="https://github.com/user-attachments/assets/872182a7-96db-46c2-ad4d-a2ef108e2e51" alt="Ultralytics" width="200"/></a>
   <a href="https://www.cvat.ai/">
