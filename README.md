@@ -94,7 +94,7 @@ Special thanks to [Ultralytics](https://github.com/ultralytics/ultralytics) for 
 </div>
 
 ## License
-The provided fine-tuned model, along with the dataset, notebook, and accompanying documentation, are licensed under the [AGPL-3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html). This license was chosen to promote open collaboration, ensure transparency, and allow others to freely use, modify, and contribute to the work, while maintaining consistency, as the provided pretrained YOLOv11 model is also licensed under AGPL-3.0. 
+The provided fine-tuned model, along with the dataset, notebook, and accompanying documentation, are licensed under the [AGPL-3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html). This license was chosen to promote open collaboration, ensure transparency, and allow others to freely use, modify, and contribute to the work, while maintaining consistency, as the provided pretrained YOLOv11 model is also licensed under AGPL-3.0. For more information on the licensing and access to YOLOv11 models, please visit the [YOLOv11 repository](https://github.com/ultralytics/ultralytics).
 
 Any modifications or improvements must also be shared under the same license, with appropriate acknowledgment.
 
