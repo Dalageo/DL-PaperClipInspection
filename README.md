@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/Dalageo/PaperClipInspection?style=social" alt="GitHub stars">
 </div>
 
-# Analyzing Paper Clips Using Deep Learning and Computer Vision Techniques 📎
+# Analyzing Paper Clips Using Deep Learning and Computer Vision Techniques📎
 
 In this project, a combination of object detection and computer vision methods was utilized to inspect paper clips for defects. For normal clips, additional steps were taken to extract physical characteristics, such as size categorization and angle estimation. Moreover, To establish a reference for accurately converting pixel measurements to actual centimeters, an [ArUco marker](https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html) with ID 0 and a size of 50x50 mm was used.
 
